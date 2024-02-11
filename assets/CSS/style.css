@@ -1,0 +1,123 @@
+/* Estilo para la lista de tareas */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 500px;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+/* Estilos para los checkboxes */
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+/* Estilos para los contadores de tareas */
+p {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+/* Estilo para el formulario */
+form {
+    display: flex;
+    align-items: center;
+}
+
+/* Estilo para el input de texto */
+#taskInput {
+    flex: 1;
+    margin-right: 10px;
+}
+
+/* Estilo para el botón Agregar */
+button[type="button"] {
+    flex: none;
+}
+
+/* Estilo para el contenedor de la lista de tareas */
+.task-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+/* Estilo para la lista de tareas */
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 500px;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+/* Estilos para los checkboxes */
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+/* Estilos para los contadores de tareas */
+p {
+    font-size: 14px;
+    margin-top: 20px;
+}
+
+/* Estilo para la lista de tareas */
+ul {
+    list-style: none;
+    padding: 10;
+    margin: 0;
+    width: 450px;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    padding: 5px;
+    border-radius: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+/* Estilos para los checkboxes */
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+/* Estilos para los contadores de tareas */
+p {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-inline: 20px;
+    padding: 1%;
+}
+
+
+
+
+
